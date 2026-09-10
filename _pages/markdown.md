@@ -8,93 +8,26 @@ redirect_from:
   - /markdown.html
 ---
 
-Welcome to a glimpse into my life beyond research! Here I share some of my interests, hobbies, and lifestyle choices that help me maintain balance and find inspiration.
+Outside research, I enjoy games, books, film, and time outdoors.
 
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 class="archive__item-title" itemprop="headline">
-      <a href="/four-dimensional-life-doctrine/" rel="permalink">A Four-Dimensional Life Doctrine 四维方法论</a>
-    </h2>
-    <p class="archive__item-excerpt" itemprop="description">
-      <strong>Balance defines position.</strong> 势平，方能立身。<br>
-      <strong>Transformation defines efficiency.</strong> 善化，方能有得。<br>
-      <strong>Parallelism defines capacity.</strong> 并行，方能致远。<br>
-      <strong>Time defines destiny.</strong> 积久，方能成运。
-    </p>
-  </article>
-</div>
+## Notes on life
 
+[A Four-Dimensional Life Doctrine 四维方法论]({{ '/four-dimensional-life-doctrine/' | relative_url }}) — reflections on balance, transformation, parallel pursuits, and accumulation over time.
 
-## Work Efficiency
+## BubbleTodo
 
-I'm a strong believer in turning productivity into something fun. That's why I built **BubbleTodo** — a playful, interactive to-do list where your tasks float as colorful bubbles. Add tasks, drag them around, and hold to pop them when done. It's a small tool designed to make checking off your to-do list feel satisfying.
+I built [BubbleTodo](https://xiayu-zhao.github.io/BubbleTodo), a playful to-do list: add tasks as colorful bubbles, drag to arrange them, and hold to pop completed tasks.
 
-<a href="https://xiayu-zhao.github.io/BubbleTodo" target="_blank" style="display: inline-block; padding: 0.6em 1.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 0.5em 0;">🫧 Try BubbleTodo</a>
+## Community
 
+I volunteer as a cat foster with Vermilion County Animal Shelter (2025–present).
 
-## Community & Volunteering
+## Favorites
 
-I believe in giving back to the community. I've been involved in [placeholder: e.g., volunteer activities, community service, mentoring, or other contributions].
+**Games:** Rusty Lake Series, Gris, Gorogoa, Journey, What Remains of Edith Finch, Dave the Diver, To the Moon, Gujian3 (古剑奇谭3), Dredge,  Expedition 33, Thronefall, Overcooked 1&2.
 
-## Things I like
-PC Games: Rusty Lake Series, Gris, Gorogoa, Journey, What Remains of Edith Finch, Dave the Diver, To the Moon, Gujian3 (古剑奇谭3), Dredge,  Expedition 33, Thronefall, Overcooked 1&2.
+**Books:** The Three-Body Problem (三体)，Hillbilly Elegy, The Crowd: A Study of the Popular Mind, Invisible Cities, Brief History of Humankind, 1587 - a Year of No Significance (万历十五年), The Lover (L'amant), The Temple of the Golden Pavilion (金閣寺, Kinkaku-ji).
 
-Books: The Three-Body Problem (三体)，Hillbilly Elegy, The Crowd: A Study of the Popular Mind, Invisible Cities, Brief History of Humankind, 1587 - a Year of No Significance (万历十五年), The Lover (L'amant), The Temple of the Golden Pavilion (金閣寺, Kinkaku-ji).
+**Film & TV:** Interstellar (2014), Ready Player One (2018), Pose (TV Series 2018–2021), The Last Emperor (末代皇帝，1987), Havoc in Heaven (大闹天宫，1961), Kung Fu Hustle (功夫，2004), Friends (TV Series 1994–2004), Breaking Bad (TV Series 2008–2013), Brokeback Mountain (2005), Game of Thrones (2011-2017, exclude season 8).
 
-Films/TV Series: Interstellar (2014), Ready Player One (2018), Pose (TV Series 2018–2021), The Last Emperor (末代皇帝，1987), Havoc in Heaven (大闹天宫，1961), Kung Fu Hustle (功夫，2004), Friends (TV Series 1994–2004), Breaking Bad (TV Series 2008–2013), Brokeback Mountain (2005), Game of Throne (2011-2017, exclude season 8).
-
-Sports/Outdoors: Tennis, Road Trip, Hiking, Kayaking
-
-
----
-
-*This page is a work in progress and will be updated with more details about my life and interests.*
-
-## Photo Gallery
-
-Here are some photos from my life and travels:
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1em; margin: 2em 0;">
-  <div>
-    <img src="/images/placeholder-photo-1.jpg" alt="Placeholder Photo 1" style="width: 100%; height: auto; border-radius: 8px;">
-    <p style="text-align: center; margin-top: 0.5em; font-size: 0.9em; color: #666;">[Placeholder: Photo description or caption]</p>
-  </div>
-  <div>
-    <img src="/images/placeholder-photo-2.jpg" alt="Placeholder Photo 2" style="width: 100%; height: auto; border-radius: 8px;">
-    <p style="text-align: center; margin-top: 0.5em; font-size: 0.9em; color: #666;">[Placeholder: Photo description or caption]</p>
-  </div>
-  <div>
-    <img src="/images/placeholder-photo-3.jpg" alt="Placeholder Photo 3" style="width: 100%; height: auto; border-radius: 8px;">
-    <p style="text-align: center; margin-top: 0.5em; font-size: 0.9em; color: #666;">[Placeholder: Photo description or caption]</p>
-  </div>
-</div>
-
-## Videos
-
-Here are some videos I'd like to share:
-
-<div style="margin: 2em 0;">
-  <div style="margin-bottom: 2em;">
-    <h4>[Placeholder: Video Title 1]</h4>
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PLACEHOLDER_VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <p style="font-size: 0.9em; color: #666;">[Placeholder: Video description]</p>
-  </div>
-  
-  <div style="margin-bottom: 2em;">
-    <h4>[Placeholder: Video Title 2]</h4>
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PLACEHOLDER_VIDEO_ID_2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <p style="font-size: 0.9em; color: #666;">[Placeholder: Video description]</p>
-  </div>
-  
-  <div style="margin-bottom: 2em;">
-    <h4>[Placeholder: Video Title 3]</h4>
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PLACEHOLDER_VIDEO_ID_3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <p style="font-size: 0.9em; color: #666;">[Placeholder: Video description]</p>
-  </div>
-</div>
+**Outdoors:** Tennis, Road trips, Hiking, Kayaking

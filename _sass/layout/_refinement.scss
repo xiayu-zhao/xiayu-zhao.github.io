@@ -1,0 +1,167 @@
+/* Shared, compact typography for every page and collection. */
+:root {
+  /* Sampled directly from the user's blue swatch reference. */
+  --blue-bashful: #c9e6f4;
+  --blue-caribbean: #a3d5f0;
+  --blue-wave: #6eb8e5;
+  --blue-utah: #1c94d0;
+  --blue-royal: #144a86;
+  --blue-admiral: #2b3663;
+  --theme-heading: var(--blue-royal);
+  --theme-accent: var(--blue-utah);
+  --theme-soft: var(--blue-bashful);
+  --global-base-color: var(--blue-royal);
+  --global-text-color: #30363d;
+  --global-text-color-light: #606973;
+  --global-link-color: var(--blue-royal);
+  --global-link-color-hover: var(--blue-admiral);
+  --global-link-color-visited: var(--blue-royal);
+  --global-masthead-link-color: var(--blue-royal);
+  --global-masthead-link-color-hover: var(--blue-admiral);
+  --global-border-color: var(--blue-bashful);
+  --global-footer-bg-color: #fff;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: var(--blue-admiral);
+  --theme-heading: var(--blue-bashful);
+  --theme-accent: var(--blue-wave);
+  --theme-soft: var(--blue-royal);
+  --global-base-color: var(--blue-caribbean);
+  --global-text-color: #d5dae0;
+  --global-text-color-light: #a0aab5;
+  --global-link-color: var(--blue-caribbean);
+  --global-link-color-hover: var(--blue-bashful);
+  --global-link-color-visited: var(--blue-caribbean);
+  --global-masthead-link-color: var(--blue-caribbean);
+  --global-masthead-link-color-hover: var(--blue-bashful);
+  --global-border-color: var(--blue-royal);
+  --global-footer-bg-color: var(--global-bg-color);
+}
+
+html { font-size: 15px; }
+body {
+  /* The inherited navigation script writes a fixed-header offset inline. */
+  padding-top: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 { font-weight: 600; line-height: 1.35; color: var(--theme-heading); }
+h1, .page__title { font-size: 1.7rem; letter-spacing: -0.025em; line-height: 1.35; }
+.page__title { margin-bottom: 1.5rem; }
+.page__title::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.8rem;
+  background: var(--theme-accent);
+}
+h2 { font-size: 1.15rem; }
+h3 { font-size: 1rem; }
+h4, h5, h6 { font-size: 0.95rem; }
+strong { font-weight: 600; }
+p { margin: 0 0 1rem; }
+a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:focus, button:focus, summary:focus,
+a:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--global-link-color);
+  outline-offset: 4px;
+}
+
+.masthead { position: relative; animation: none; border-top: 3px solid var(--theme-accent); }
+.masthead__inner-wrap { max-width: 1040px; padding: 1.15rem 2rem; }
+.greedy-nav { font-size: 0.87rem; }
+.greedy-nav a { margin: 0 0.7rem; }
+.masthead__menu-item--lg { padding-right: 1.5rem; }
+.masthead__menu-item.selected a,
+.masthead__menu-item.selected a:hover {
+  color: var(--theme-heading);
+  border-bottom: 2px solid var(--theme-accent);
+}
+.greedy-nav .visible-links a::before { height: 2px; background: var(--theme-accent); }
+.greedy-nav button { color: var(--theme-heading); }
+.navicon, .navicon::before, .navicon::after { background: var(--theme-heading); }
+.close .navicon { background: transparent; }
+::selection { color: var(--blue-admiral); background: var(--blue-caribbean); }
+.btn--primary { color: #fff; background: var(--blue-royal); }
+.btn--primary:hover { color: #fff; background: var(--blue-admiral); }
+
+#main {
+  max-width: 1040px;
+  margin-top: 3rem;
+  padding: 0 2rem;
+  animation: none;
+}
+.page, .archive { min-width: 0; overflow-wrap: break-word; }
+.page__content h2, .archive > h2 {
+  margin-top: 2.4rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.page__content p { margin-bottom: 1rem; }
+.page__content ul, .archive > ul { padding-left: 1.2rem; }
+.page__content li, .archive li { margin-bottom: 0.45rem; }
+.page__content li > ul, .archive li > ul { margin-top: 0.35rem; margin-bottom: 1.2rem; }
+.page__content li > ul li, .archive li > ul li { margin-bottom: 0.15rem; }
+
+.sidebar { position: static; height: auto; overflow: visible; padding-top: 0 !important; margin-top: 0; }
+.sidebar p, .sidebar li { font-size: 0.87rem; }
+.author__name { font-size: 1.13rem; }
+.author__bio { margin-top: 0.6rem; line-height: 1.6; }
+.author__avatar img { padding: 0; border: 0; border-radius: 3px; max-width: 136px; }
+.author__urls a { padding-top: 0.22rem; padding-bottom: 0.22rem; }
+.sidebar .author__desktop { display: block; }
+.author__desktop a { display: inline; }
+.author__urls .fa, .author__urls .fab, .author__urls .fas, .author__urls .ai { color: var(--global-link-color); }
+.page__content li::marker, .archive li::marker { color: var(--theme-accent); }
+
+.archive__item { margin-bottom: 1.7rem; }
+.archive__item-title, .page__content .archive__item-title {
+  font-size: 1rem;
+  margin-top: 1.4rem;
+  line-height: 1.5;
+}
+.archive__item-title a { text-decoration: none; }
+.archive__item-title a:hover { text-decoration: underline; }
+.archive__item p, .archive__item-excerpt { font-size: 0.93rem; margin-bottom: 0.45rem; }
+.page__meta, .page__date, .publication-meta { font-size: 0.85rem; color: var(--global-text-color-light); }
+.publication-citation { margin: 0.5rem 0; font-size: 0.87rem; }
+.publication-citation summary { cursor: pointer; color: var(--global-link-color); width: fit-content; }
+.publication-citation p { margin-top: 0.5rem; }
+.publication-links { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.87rem; }
+.page__footer { background: var(--global-footer-bg-color); border-top: 1px solid var(--global-border-color); }
+.page__footer footer { max-width: 1040px; padding: 1.5rem 2rem; font-size: 0.8rem; }
+.cv-download { margin-bottom: 0.6rem; }
+.news-list { list-style: none; padding-left: 0 !important; }
+.news-list li { display: grid; grid-template-columns: 6rem 1fr; gap: 1rem; margin-bottom: 0.8rem; }
+.news-list time { font-family: Consolas, "SFMono-Regular", monospace; font-size: 0.8rem; color: var(--global-link-color); padding-top: 0.2rem; }
+
+@media (min-width: 925px) {
+  #main { display: grid; grid-template-columns: 184px minmax(0, 1fr); column-gap: 64px; }
+  #main::before, #main::after { display: none; }
+  #main > .sidebar { grid-column: 1; width: auto; max-width: none; float: none; }
+  #main > .page, #main > .archive { grid-column: 2; width: 100%; float: none; margin: 0; padding: 0; }
+  #main > .page__related { grid-column: 2; padding: 0; width: 100%; }
+}
+
+@media (max-width: 924px) {
+  #main { max-width: 760px; margin-top: 2rem; }
+  .page, .archive { width: 100%; padding: 0; }
+  .sidebar { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--global-border-color); }
+  .author__avatar { width: 80px; }
+  .author__avatar img { max-width: 80px; }
+}
+
+@media (max-width: 480px) {
+  #main, .masthead__inner-wrap, .page__footer footer { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .page__title { font-size: 1.5rem; }
+  .news-list li { grid-template-columns: 4.8rem 1fr; gap: 0.6rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

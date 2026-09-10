@@ -3,7 +3,7 @@ permalink: /four-dimensional-life-doctrine/
 title: "A Four-Dimensional Life Doctrine 四维方法论"
 author_profile: true
 ---
-#### Copyright: Xiayu Zhao
+*By Xiayu (Summer) Zhao*
 
 ## Dimension 1: Force Balance  一维｜势平衡
 Life rarely rewards extremes.
@@ -26,7 +26,7 @@ All action bears a cost.
 Value lies not in input, but in conversion.
 功不唐捐，贵在转化。
 
-They who know causality masters transformation.
+Understanding causality enables transformation.
 明因果者，通其变。
 
 Gain and loss arise together. 
@@ -71,4 +71,3 @@ Parallelism defines capacity.
 
 Time defines destiny.
 积久，方能成运。
-

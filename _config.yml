@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiayu Zhao"
+title                    : "Xiayu (Summer) Zhao"
 title_separator          : "-"
-name                     : &name "Xiayu Zhao"
-description              : &description "Xiayu Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xiayu (Summer) Zhao"
+description              : &description "Xiayu (Summer) Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://xiayu-zhao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "xiayu-zhao/xiayu-zhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiayu Zhao"
+  name             : "Xiayu (Summer) Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student at University of Illinois Urbana-Champaign"
+  bio              : "PhD student · Civil Engineering<br>University of Illinois Urbana-Champaign"
   location         : "Urbana, Illinois, USA"
   employer         : # URL
   uri              : # URL
@@ -243,10 +243,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -261,7 +261,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -270,7 +270,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -279,7 +279,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -288,7 +288,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS

@@ -1,0 +1,12 @@
+{% assign publication = include.publication %}
+{% if publication.citation %}
+<details class="publication-citation">
+  <summary>Citation<span class="sr-only"> for {{ publication.title }}</span></summary>
+  <p>{{ publication.citation }}</p>
+</details>
+{% endif %}
+<div class="publication-links">
+  {% if publication.paperurl %}<a href="{{ publication.paperurl }}">Paper</a>{% endif %}
+  {% if publication.slidesurl %}<a href="{{ publication.slidesurl }}">Slides</a>{% endif %}
+  {% if publication.bibtexurl %}<a href="{{ publication.bibtexurl }}">BibTeX</a>{% endif %}
+</div>

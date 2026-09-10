@@ -7,13 +7,13 @@ author_profile: true
 
 ## Academic Awards
 
-* **Olympiad Medalist**, All Engineering Field, 2025 Olympiad in Engineering Science, University of Stavanger, Norway (2025)
+* **Olympiad Medalist**, Across engineering fields, 2025 Olympiad in Engineering Science, University of Stavanger, Norway (2025)
   * Submission: *Autonomous Drone-based System for Precision, Non-contact Surface Finishing in Construction*
-  * Team: Tianyu Ren, Xiayu Zhao, Houtan Jebelli
+  * Team: Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli
 
 * **First Place**, ASCE 2025 Global Robotics and Automation Competition, ASCE Computing Conference, New Orleans (2025)
   * Submission: *Module-enhanced Slope-Adaptive and Hazard-Aware Hexapod Robotic System for Safe Roof Inspection*
-  * Team: Xiayu Zhao, Houtan Jebelli
+  * Team: Xiayu (Summer) Zhao, Houtan Jebelli
 
 * **Journal Cover Feature**, *Computer-Aided Civil and Infrastructure Engineering* (2025)
   * Paper: *A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection*
@@ -39,10 +39,12 @@ author_profile: true
 
 * **University Graduate Fellowship**, Pennsylvania State University (2023)
 
-* **College of Engineering Scholarship**, College of Engineering, PSU (2023)
+* **College of Engineering Scholarship**, Pennsylvania State University, College of Engineering (2023)
 
-* **China National Scholarship** (1/101), Ministry of Education of the People's Republic of China (2018)
 
-* **China National Scholarship** (1/97), Ministry of Education of the People's Republic of China (2016)
 
-* **China National Scholarship** (1/94), Ministry of Education of the People's Republic of China (2015)
+
+
+
+
+* **China National Scholarship**, Ministry of Education of the People’s Republic of China: 2018 (1/101), 2016 (1/97), and 2015 (1/94).

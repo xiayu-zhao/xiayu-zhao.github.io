@@ -9,57 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: center; margin-bottom: 2em;">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV</a>
-</div>
+<p class="cv-download"><a href="{{ base_path }}/CV_latex/CV_XiayuZhao.pdf">Download CV (PDF)</a></p>
 
 *Last updated: April 2026*
 
 ## Research Interests
 
-AI and machine learning algorithms for seamless human-robot collaboration; Computer vision techniques for automated inspection tasks; Construction robotics; Robotic control and navigation.
+AI for human–robot collaboration; computer vision for inspection; construction robotics; control and navigation.
 
 ## Education
 
 * **PhD Student**, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
-  * Spring 2024 - present
-  * Advisor: Dr. Houtan Jebelli
-  * GPA: 3.91/4.00
+  * Spring 2024 - present · Advisor: Dr. Houtan Jebelli · GPA: 3.91/4.00
 
 * **Master of Computer Science**, Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign
   * 2025 - 2027
-  * Research fields: Vision, Graphics, Interaction, and Robotics
+  * Focus: Vision, Graphics, Interaction, and Robotics
   * GPA: 4.00/4.00 (Fall 2025 - present)
-  * Courses taken: CS598 (Deep Learning for Robotic Manipulation) A, CS547/IE534 (Deep Learning) A+, ECE470 (Introduction to Robotics) A, CS598 (Advanced Computational Topics in Robotics) A-, CS443 (Reinforcement Learning) B+, Ordered Data Structures (Coursera, provided by UIUC), Object-Oriented Data Structures in C++ (Coursera, provided by UIUC)
+  * Coursework: CS598 (Deep Learning for Robotic Manipulation) A, CS547/IE534 (Deep Learning) A+, ECE470 (Introduction to Robotics) A, CS598 (Advanced Computational Topics in Robotics) A-, CS443 (Reinforcement Learning) B+, Ordered Data Structures (Coursera, provided by UIUC), Object-Oriented Data Structures in C++ (Coursera, provided by UIUC)
 
 * **Master of Architecture**, Tsinghua University, Beijing, China
   * 2019 - 2021
-  * Research fields: Robotic Construction, 3D Printing, Computational Design
+  * Focus: Robotic Construction, 3D Printing, Computational Design
   * GPA: 3.97/4.00
 
 * **Bachelor of Architecture**, Tianjin University, Tianjin, China
   * 2014 - 2019
-  * Research fields: Computational Design
+  * Focus: Computational Design
   * GPA: 3.85/4.00
 
 ## Academic Appointments
 
 * **Graduate Student Research Assistant**, University of Illinois Urbana-Champaign, Urbana, IL, U.S.
-  * Spring 2024 - present
-  * Supervisor: Professor Houtan Jebelli
+  * Spring 2024 - present · Supervisor: Professor Houtan Jebelli
 
 * **Graduate Student**, Icon Lab, Penn State University, Fall 2023
   * *Robotic Construction Safety Training Prototype with Immersive Technology (VR)*
   * Role: **Team Leader** | Supervisor: Professor John Messner | TA: Saleh Alghamdi
   * Team: Tessa Beauchat, Islam Gharaibeh, Fangxiao Li
-  * Connected ROS (Robot Operating System) with Unity 3D to control robot arm mounted UGV (Unmanned Ground Vehicle) in immersive simulation environments
-  * Developed an interactive, game-based prototype specifically for collision-avoidance safety training, targeted at workers involved in human-robot collaborative construction scenarios
+  * Connected ROS and Unity 3D to control a robot-arm-mounted unmanned ground vehicle (UGV) in immersive simulation.
+  * Built a game-based collision-avoidance training prototype for workers in human–robot construction teams.
 
 * **Research Assistant**, DAIC (Digital Architecture and Robotic Construction) Lab, Tsinghua University
-  * Jul. 2021 - Apr. 2023
-  * Supervisor: Professor Weiguo Xu
+  * Jul. 2021 - Apr. 2023 · Supervisor: Professor Weiguo Xu
   * Extracted design information to program and control robot arms for large-scale 3D printing
-  * Developed software plug-ins for robotic construction, including 3D printing, metal cutting, wood cutting, wall painting, etc.
+  * Built robotic construction plug-ins for 3D printing, metal and wood cutting, and wall painting.
 
 * **Master's Thesis and Graduation Design**, Spring 2021
   * *Large-Scale Multi-Robots 3D Printing Construction Planning* | Instructor: Professor Weiguo Xu
@@ -72,10 +66,9 @@ AI and machine learning algorithms for seamless human-robot collaboration; Compu
 ## Teaching and Mentoring
 
 * **Teaching Assistant**, Robotic Construction Research Series, Robotic Construction Group, Tsinghua University
-  * Sep. 2022 - Apr. 2023
-  * Supervisor: Professor Weiguo Xu
-  * Advising master students with their graduation projects related to robotic construction
-  * Research topics involved plastic 3D printing, wood cutting, and foam cutting with KUKA robot arm
+  * Sep. 2022 - Apr. 2023 · Supervisor: Professor Weiguo Xu
+  * Advised master’s graduation projects in robotic construction.
+  * Topics: plastic 3D printing, wood cutting, and foam cutting with KUKA robot arms.
 
 * **Teaching Assistant**, Tsinghua University Parametric Design Workshop 2019, Jul. 2019
   * Tutor: Casey Rehm
@@ -85,27 +78,27 @@ AI and machine learning algorithms for seamless human-robot collaboration; Compu
   * Tutors: Shajay Bhooshan, Vishu Bhooshan, Henry Louth, Leo Claudius
   * Project Title: *Developable Funicular Skeletons with Tensioning Membranes*
 
-## Professional Experiences
+## Professional Experience
 
 * **Research Engineer**, Institute of Future Human Habitats, Tsinghua University Shenzhen International Graduate School (SIGS)
   * 2021 - 2023
-  * Developed large-scale robotic construction technology based on composite consumables and practical building materials with an interdisciplinary team
-  * Developed software interface to streamline input and control
+  * Developed large-scale robotic construction with composite consumables and building materials in an interdisciplinary team.
+  * Built software interfaces for input and robot control.
 
 * **3D Concrete Printing Specialist**, Heqing Digital Building Technology Co.
   * 2020 - Apr. 2023
-  * Participated in several on-site robotic construction projects in China and the US, including designing the shape, designing the print path, writing the print program, operating the robot arm on-site, post-maintenance, etc.
+  * Delivered on-site robotic construction in China and the US: geometry, toolpaths, print programming, robot operation, and maintenance.
 
 * **Intern Architect**, Zaha Hadid Architects
   * Jun. - Sept. 2020
   * Project Director: Satoshi Ohashi
-  * Participated in the design stage of the final winning bid -- competition -- design of *Tower C of Shenzhen Bay Super Headquarters*
-  * Participated in the Preliminary design of the Unicorn Island project in Sichuan
+  * Contributed to the winning competition design for *Tower C of Shenzhen Bay Super Headquarters*
+  * Contributed to preliminary design for Unicorn Island, Sichuan.
 
 * **Intern Architect**, China Architecture Design & Research Institute
   * Jun. - Sept. 2018
   * Project Director: Professor Xinggang Li
-  * Participated in the design of the *National Sliding Center* in the Beijing 2022 Winter Olympic Games in the Yanqing District
+  * Contributed to the design of the *National Sliding Center* in the Beijing 2022 Winter Olympic Games in the Yanqing District
 
 * **Co-designer**, Model Slicing and Toolpath Plug-in Development for Robotic Construction
   * Mar. - Apr. 2023
@@ -134,11 +127,11 @@ AI and machine learning algorithms for seamless human-robot collaboration; Compu
 
 ## Publications
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul class="cv-publications">
+{% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}
+</ul>
 
-You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en).
+Full publication profile: [Google Scholar](https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en).
 
 ## Awards and Honors
 
@@ -146,11 +139,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 * **Olympiad Medalist** -- All Engineering Field, 2025 Olympiad in Engineering Science (2025)
   * Held at the University of Stavanger, Norway
   * Submission: *Autonomous Drone-based System for Precision, Non-contact Surface Finishing in Construction*
-  * Team: Tianyu Ren, Xiayu Zhao, Houtan Jebelli
+  * Team: Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli
 * **First Place** -- ASCE 2025 Global Robotics and Automation Competition (2025)
   * 2025 ASCE Computing Conference, New Orleans, hosted by the ASCE Computing Division
   * Submission: *Module-enhanced Slope-Adaptive and Hazard-Aware Hexapod Robotic System for Safe Roof Inspection*
-  * Team: Xiayu Zhao, Houtan Jebelli
+  * Team: Xiayu (Summer) Zhao, Houtan Jebelli
 * **Journal Cover Feature** -- *Computer-Aided Civil and Infrastructure Engineering* (2025)
   * Paper: *A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection*
 * Outstanding Graduate Award (2019)
@@ -172,7 +165,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 * China National Scholarship (1/94) (2015)
   * Sponsor: Ministry of Education of the People's Republic of China
 
-## Professional Leadership & Service Activities
+## Service & Leadership
 
 ### Journal & Conference Reviewer (Selected)
 
@@ -219,13 +212,13 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 **Programming:** Matlab, Python, R, C++
 
-**Simulation Software:** Unity, Unreal Engine
+**Simulation:** Unity, Unreal Engine
 
-**Statistical Analysis Software:** IBM-SPSS
+**Statistics:** IBM-SPSS
 
-**Drawing and Building Information Modeling:** AutoCAD, Revit, Rhino, Grasshopper, Sketch-Up, SolidWorks, Adobe Photoshop, Adobe Illustrator
+**Design & BIM:** AutoCAD, Revit, Rhino, Grasshopper, Sketch-Up, SolidWorks, Adobe Photoshop, Adobe Illustrator
 
-**General Software/Platform:** MS-Office, LaTeX, Google Colab, Jupyter Notebook
+**Tools:** MS-Office, LaTeX, Google Colab, Jupyter Notebook
 
 ### Languages
 * English: Professional proficiency

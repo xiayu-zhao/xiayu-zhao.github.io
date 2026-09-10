@@ -3,14 +3,11 @@ title: "Grounding Large Language Models in Robot Control: Facilitating Human-Rob
 collection: publications
 category: conferences
 permalink: /publication/2024-06-02-grounding-llm-robot-control
-excerpt: 'This paper explores how large language models can be grounded in robot control systems to facilitate human-robot collaboration in construction environments.'
+excerpt: 'Large language models translate natural-language commands into robot actions, making human–robot collaboration in construction more intuitive and accessible.'
 date: 2024-06-02
 venue: '2024 International Conference on Computing in Civil Engineering (i3CE)'
 paperurl: 'https://ascelibrary.org/doi/abs/10.1061/9780784486115.099'
 citation: 'Zhao, X., and Jebelli, H. (2024). &quot;Grounding Large Language Models in Robot Control: Facilitating Human-Robot Collaboration in Construction.&quot; <i>2024 International Conference on Computing in Civil Engineering (i3CE)</i>, Pittsburgh, Pennsylvania, U.S. (Accepted).'
 ---
 
-This research investigates the integration of large language models with robot control systems to enable more natural and intuitive human-robot collaboration in construction settings. The work addresses how natural language commands can be translated into robotic actions, improving the usability and accessibility of construction robots.
-
-Recommended citation: Zhao, X., and Jebelli, H. (2024). "Grounding Large Language Models in Robot Control: Facilitating Human-Robot Collaboration in Construction." <i>2024 International Conference on Computing in Civil Engineering (i3CE)</i>, Pittsburgh, Pennsylvania, U.S. (Accepted).
-
+Large language models translate natural-language commands into robot actions, making human–robot collaboration in construction more intuitive and accessible.

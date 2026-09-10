@@ -1,5 +1,5 @@
 # A Four-Dimensional Life Doctrine 四维方法论
-#### Copyright: Xiayu Zhao
+#### Copyright: Xiayu (Summer) Zhao
 
 ## Dimension 1: Force Balance  一维｜势平衡
 Life rarely rewards extremes.
