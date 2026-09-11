@@ -24,6 +24,7 @@ I combine robotics, computer vision, machine learning, and human–computer inte
 ## News
 
 <ul class="news-list">
+  <li><time datetime="2026-09">Sep 2026</time><span>🎾 Summer Zhao <a href="{{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }}">won first place</a> in the Beginner/Intermediate Open Singles division of the Champaign Park District tennis tournament. Congratulations!</span></li>
   <li><time datetime="2025-06">Jun 2025</time><span><a href="{{ '/posts/2025/06/olympiad-medalist/' | relative_url }}">Olympiad Medalist</a> with Tianyu Ren and Houtan Jebelli—one of six teams recognized across engineering fields at OES, University of Stavanger, Norway, for autonomous drone-based, non-contact surface finishing.</span></li>
   <li><time datetime="2025-06">Jun 2025</time><span>Presented “AI-enhanced Adaptive Landing Gear for Aerial Robots in Dynamic Environments” at OES, Stavanger, Norway.</span></li>
   <li><time datetime="2025-05">May 2025</time><span><a href="{{ '/posts/2025/05/asce-first-place/' | relative_url }}">First place, ASCE Global Robotics and Automation Competition</a> at i3CE 2025 for construction robotics.</span></li>

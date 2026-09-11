@@ -3,6 +3,8 @@ layout: default
 ---
 
 {% include base_path %}
+{% assign display_date_format = "%B %d, %Y" %}
+{% if page.date_precision == 'month' %}{% assign display_date_format = "%B %Y" %}{% endif %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -39,7 +41,7 @@ layout: default
         {% elsif page.venue and page.date %}
           <p class="publication-meta"><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{% if page.date_precision == 'month' %}{{ page.date | date: '%Y-%m' }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">{{ page.date | default: "1900-01-01" | date: display_date_format }}</time></p>
         {% endif %}    
         </header>
       {% endunless %}

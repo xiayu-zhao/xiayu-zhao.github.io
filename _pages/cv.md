@@ -11,7 +11,7 @@ redirect_from:
 
 <p class="cv-download"><a href="{{ base_path }}/CV_latex/CV_XiayuZhao.pdf">Download CV (PDF)</a></p>
 
-*Last updated: April 2026*
+*Last updated: September 2026*
 
 ## Research Interests
 
@@ -126,6 +126,8 @@ AI for human–robot collaboration; computer vision for inspection; construction
   * Project Leaders: Weiguo Xu, Yuan Gao, Chenwei Sun | Wujiazhuang, Hebei, China
 
 ## Publications
+
+*Updated from Google Scholar, September 2026. All 24 records are listed, including two similar 2021 entries that may refer to the same article.*
 
 <ul class="cv-publications">
 {% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}

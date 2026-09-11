@@ -71,32 +71,172 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://xiayu-zhao.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A computational method for real-time roof defect segmentation in robotic inspection",
+      "publisher": "Computer-Aided Civil and Infrastructure Engineering",
+      "releaseDate": "2025-9",
+      "website": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.13471",
+      "summary": "Xiayu (Summer) Zhao, Houtan Jebelli"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://xiayu-zhao.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Toward engineering AGI: Benchmarking the engineering design capabilities of LLMs",
+      "publisher": "Advances in Neural Information Processing Systems",
+      "releaseDate": "2026-4-23",
+      "website": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/664f777548205fb6e0cbb0965e8d2e16-Abstract-Datasets_and_Benchmarks_Track.html",
+      "summary": "Xingang Guo, Yaxin Li, Xiangyi Kong, Yilan Jiang, Xiayu (Summer) Zhao, Zhihua Gong, Yufan Zhang, Daixuan Li, Tianle Sang, Beixiao Zhu, Gregory Jun, Yingbing Huang, Yiqi Liu, Yuqi Xue, Rahul Dev Kundu, Qi Lim, Yizhou Zhao, Luke Granger, Mohamed Younis, Darioush Keivan, Nippun Sabharwal, Shreyanka Sinha, Prakhar Agarwal, Kojo Vandyck, Hanlin Mai, Zichen Wang, Aditya Venkatesh, Ayush Barik, Jiankun Yang, Chongying Yue, Jingjie He, Libin Wang, Licheng Xu, Hao Chen, Jinwen Wang, Liujun Xu, Rushabh Shetty, Ziheng Guo, Dahui Song, Manvi Jha, Weijie Liang, Weiman Yan, Bryan Zhang, Sahil Bhandary Karnoor, Jialiang Zhang, Rutva Pandya, Xinyi Gong, Mithesh Ganesh, Feize Shi, Ruiling Xu, Yifan Zhang, Yanfeng Ouyang, Lianhui Qin, Elyse Rosenbaum, Corey Snyder, Peter Seiler, Geir Dullerud, Xiaojia Zhang, Zuofu Cheng, Pavan Kumar Hanumolu, Jian Huang, Mayank Kulkarni, Mahdi Namazifar, Huan Zhang, Bin Hu"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://xiayu-zhao.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Sensor Fusion and Hierarchical Inspection Strategy for Aerial-Ground Multi-robot System",
+      "publisher": "42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)",
+      "releaseDate": "2025",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:5nxA0vEk-isC",
+      "summary": "Xiayu (Summer) Zhao, Tianyu Ren, Yizhi Liu, Houtan Jebelli"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://xiayu-zhao.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adaptive Intelligence for Robot Navigation Efficiency with a Deep Reinforcement Learning-Based Cyber-Physical System",
+      "publisher": "Computing in Civil Engineering 2024",
+      "releaseDate": "2024",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486115.088",
+      "summary": "Xiayu (Summer) Zhao, Tianyu Ren, Houtan Jebelli"
+    },
+    {
+      "name": "Advanced Sensor Integration for Enhanced Flight Control in UAV-Based Construction Automation",
+      "publisher": "Proceedings of the 42nd International Symposium on Automation and Robotics in Construction (ISARC), Montreal, QC, Canada",
+      "releaseDate": "2025-7",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:IjCSPb-OGe4C",
+      "summary": "Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "LLM-Driven Safe Robotic Navigation in Construction Sites: A Prompt Engineering Framework with Terrain-Adaptive Path Planning",
+      "publisher": "Computing in Civil Engineering 2025: Computational and Intelligent Technologies",
+      "releaseDate": "2026-1",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486436.007",
+      "summary": "Xiayu (Summer) Zhao, Tianyu Ren, Houtan Jebelli"
+    },
+    {
+      "name": "Module-Enhanced Slope-Adaptive and Hazard-Aware Hexapod Robotic System for Safe Roof Inspection",
+      "publisher": "ASCE OPEN: Multidisciplinary Journal of Civil Engineering",
+      "releaseDate": "2025-12-31",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/AOMJAH.AOENG-0088",
+      "summary": "Xiayu (Summer) Zhao, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Research Progress and Current Applications of 3D Printing Construction Technology",
+      "publisher": "Chinese & Overseas Architecture",
+      "releaseDate": "2021",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:9yKSN-GCB0IC",
+      "summary": "Xiayu (Summer) Zhao, Weiguo Xu"
+    },
+    {
+      "name": "Hybrid UAV-UGV System with Interchangeable Ground Modules for Multi-Terrain Construction Site Inspection",
+      "publisher": "Computing in Civil Engineering 2025: Resilient, Robotic, and Educational Systems",
+      "releaseDate": "2026-1",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486443.051",
+      "summary": "Xiayu (Summer) Zhao, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Adaptive kinematic and dynamic control for hexapod robots in complex construction environments",
+      "publisher": "Proc., 42nd Int. Symp. on Automation and Robotics in Construction. Montreal, Canada: Concordia University",
+      "releaseDate": "2025",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:zYLM7Y9cAGgC",
+      "summary": "Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "Understanding the Impact of an Exoskeleton System on the Metabolic Cost of Workers during Common Repetitive Construction Tasks",
+      "publisher": "Computing in Civil Engineering 2024",
+      "releaseDate": "2024",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486139.070",
+      "summary": "Amit Ojha, Yogesh Gautam, Xiayu (Summer) Zhao, Ali Sharifironizi, Houtan Jebelli, Anne Martin"
+    },
+    {
+      "name": "A soft pneumatic UAV landing and perception platform for gentle contact-based infrastructure inspection via visual-tactile-spatial multimodal sensing",
+      "publisher": "Computer-Aided Civil and Infrastructure Engineering",
+      "releaseDate": "2026-5-27",
+      "website": "https://www.sciencedirect.com/science/article/pii/S1093968726030902",
+      "summary": "Xiayu (Summer) Zhao, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Grounding Large Language Models in Robot Control: Facilitating Human-Robot Collaboration in Construction",
+      "publisher": "Computing in Civil Engineering 2024",
+      "releaseDate": "2024",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486115.099",
+      "summary": "Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "Simulation Algorithm Based on Weathered Rock Morphology and Optimization Algorithm for Design Applications",
+      "publisher": "The International Conference on Computational Design and Robotic Fabrication",
+      "releaseDate": "2022-6-27",
+      "website": "https://link.springer.com/chapter/10.1007/978-981-19-8637-6_10",
+      "summary": "Wei Ye, Xiayu (Summer) Zhao, Weiguo Xu"
+    },
+    {
+      "name": "ConstrucSim: A Reproducible Platform for Dexterous Humanoid Robot Perception, Planning, and Contact in Construction",
+      "publisher": "Construction Research Congress 2026",
+      "releaseDate": "2026",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486979.005",
+      "summary": "Tianyu Ren, Iftekhar Hasan, Xiayu (Summer) Zhao, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Tactile-Aware Soft Hexapod UAV Gripper for Multi-Modal Aerial Manipulation in Construction",
+      "publisher": "Construction Research Congress 2026",
+      "releaseDate": "2026",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486979.019",
+      "summary": "Xiayu (Summer) Zhao, Yizhi Liu, Katherine Driggs-Campbell, Houtan Jebelli"
+    },
+    {
+      "name": "Open-Vocabulary, Context-Aware Robot Navigation on Construction Sites: Integrating LLM-Driven Value Map Composition with Hierarchical Scene Graphs",
+      "publisher": "Construction Research Congress 2026",
+      "releaseDate": "2026",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486979.022",
+      "summary": "Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "Dynamic Robotic Control Strategies for UAV Stability with Rotatory Payload",
+      "publisher": "Computing in Civil Engineering 2025: Resilient, Robotic, and Educational Systems",
+      "releaseDate": "2026-1",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486443.050",
+      "summary": "Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "Autonomous Drone-Based System for Precision, Non-contact Surface Finishing in Construction",
+      "publisher": "Olympiad in Engineering Science",
+      "releaseDate": "2025-6-10",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-032-19744-3_41",
+      "summary": "Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli"
+    },
+    {
+      "name": "A Pneumatic Sensor-Equipped Hexapod Landing Gear and Gripper System for Gentle Drone Contact with Building Envelopes and Energy Assets",
+      "publisher": "Olympiad in Engineering Science",
+      "releaseDate": "2025-6-10",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-032-19744-3_42",
+      "summary": "Xiayu (Summer) Zhao, Tianyu Ren, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Machine Learning-Based Optimization for Modular Robotic Systems in Construction: A Review",
+      "publisher": "Computing in Civil Engineering 2024",
+      "releaseDate": "2025",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486115.090",
+      "summary": "Jiafei Liu, Yuan Ping, Yujing Wang, Xiayu (Summer) Zhao"
+    },
+    {
+      "name": "Improving Heat Strain Prediction in Construction Workers: A Transfer Learning Approach to Overcome Variability Challenges",
+      "publisher": "Computing in Civil Engineering 2024",
+      "releaseDate": "2024",
+      "website": "https://ascelibrary.org/doi/abs/10.1061/9780784486139.094",
+      "summary": "Amit Ojha, Xiayu (Summer) Zhao, Yuming Zhang, Yizhi Liu, Houtan Jebelli"
+    },
+    {
+      "name": "Porous space—biomimetic of tafoni in computational design",
+      "publisher": "Architectural Intelligence",
+      "releaseDate": "2022-12-30",
+      "website": "https://link.springer.com/article/10.1007/s44223-022-00019-4",
+      "summary": "Wei Ye, Shuhua Chen, Xiayu (Summer) Zhao, Weiguo Xu"
+    },
+    {
+      "name": "Research Progress and Application Status of 3D Printing Construction Technology",
+      "publisher": "Chinese & Overseas Architecture",
+      "releaseDate": "2021-10",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:MXK_kJrjxJIC",
+      "summary": "Xiayu (Summer) Zhao, Weiguo Xu"
     }
   ],
   "presentations": [

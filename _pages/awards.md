@@ -35,6 +35,10 @@ author_profile: true
   * Team: Adela Wei, Mark Wang, Mason Yang, Yu Zhao
   * Sponsor: The Chartered Institute of Building (CIOB)
 
+## Sports
+
+* 🎾 **First Place**, Beginner/Intermediate Open Singles, Champaign Park District tennis tournament (September 2026). [News]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }})
+
 ## Scholarships and Fellowships
 
 * **University Graduate Fellowship**, Pennsylvania State University (2023)

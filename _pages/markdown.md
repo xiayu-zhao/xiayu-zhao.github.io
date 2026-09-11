@@ -10,6 +10,10 @@ redirect_from:
 
 Outside research, I enjoy games, books, film, and time outdoors.
 
+## Tennis 🎾
+
+**September 2026:** I won [first place in Beginner/Intermediate Open Singles]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }}) at the Champaign Park District tennis tournament!
+
 ## Notes on life
 
 [A Four-Dimensional Life Doctrine 四维方法论]({{ '/four-dimensional-life-doctrine/' | relative_url }}) — reflections on balance, transformation, parallel pursuits, and accumulation over time.

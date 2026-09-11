@@ -1,4 +1,5 @@
 {% assign publication = include.publication %}
+{% if publication.note %}<p class="publication-meta">{{ publication.note }}</p>{% endif %}
 {% if publication.citation %}
 <details class="publication-citation">
   <summary>Citation<span class="sr-only"> for {{ publication.title }}</span></summary>
@@ -7,6 +8,7 @@
 {% endif %}
 <div class="publication-links">
   {% if publication.paperurl %}<a href="{{ publication.paperurl }}">Paper</a>{% endif %}
+  {% if publication.scholarurl and publication.scholarurl != publication.paperurl %}<a href="{{ publication.scholarurl }}">Scholar</a>{% endif %}
   {% if publication.slidesurl %}<a href="{{ publication.slidesurl }}">Slides</a>{% endif %}
   {% if publication.bibtexurl %}<a href="{{ publication.bibtexurl }}">BibTeX</a>{% endif %}
 </div>
