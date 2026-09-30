@@ -10,3 +10,5 @@ excerpt: "🎾 September 2026: Summer Zhao won first place in the Beginner/Inter
 ---
 
 🎾 **September 2026:** Summer Zhao won **first place** in the **Beginner/Intermediate Open Singles** division of the **Champaign Park District tennis tournament**. Congratulations!
+
+📰 Read the coverage in *The Sentinel*: [Labor Day Tennis Tournament brings players together at Lindsey Courts](https://www.oursentinel.com/2026/09/labor-day-tennis-tournament-brings.html)

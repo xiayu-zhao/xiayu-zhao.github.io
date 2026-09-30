@@ -15,7 +15,12 @@ $indent-var                 : 1.3em;
 
 /* System typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* Main typeface: matches the Dear Z. site (https://xiayu-zhao.github.io/DearZ-web/),
+   loaded from Google Fonts in _includes/head/custom.html. $sans-serif is kept as the
+   variable name because many partials reference it. */
+$main-font                  : "Cormorant Garamond", "Noto Serif SC", Georgia, "Times New Roman", serif;
+$system-sans                : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : $main-font;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
@@ -39,8 +44,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : $main-font;
+$header-font-family         : $main-font;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
