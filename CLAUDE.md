@@ -32,8 +32,11 @@ It is a Jekyll site built on the academicpages / Minimal Mistakes template.
 ## Conventions
 
 - **Adding news**: create a post in `_posts/`, add a line to the News list in `_pages/about.md` (`<li><time datetime="YYYY-MM">Mon YYYY</time><span>…</span></li>`), and cross-link it from the relevant page (Awards, My Life) if it fits.
-- **Colors** are CSS custom properties at the top of `_refinement.scss` (a blue palette with light and dark variants). Reuse `var(--theme-heading)`, `var(--theme-accent)` and so on rather than hard-coding colors.
-- **Font**: the main typeface is **Cormorant Garamond** (with Noto Serif SC for Chinese), chosen to match the owner's game site Dear Z. It is set through `$main-font` in `_themes.scss` and loaded from Google Fonts in `head/custom.html`. Code and news dates stay monospace.
+- **Colors** are CSS custom properties at the top of `_refinement.scss` (a blue palette). Reuse `var(--theme-heading)`, `var(--theme-accent)` and so on rather than hard-coding colors.
+- **The site is dark-mode only.** The owner found the serif font too faint on the light background. `data-theme="dark"` is hard-coded on `<html>` in `_layouts/default.html` and `cv-layout.html`, the toggle was removed from `_includes/masthead.html`, and `setTheme` always uses dark. That change is in both `assets/js/_main.js` and the prebuilt `assets/js/main.min.js`; Node isn't installed locally, so `main.min.js` was patched by hand. The unused light variables are still in the CSS.
+- **Portrait photo** appears only on the home page (`page.url == "/"` check in `_includes/author-profile.html`). Other pages still show the sidebar name and links.
+- **Tab icon**: a "Z" with a dot, styled after the Dear Z. site icon, in the site's blues. The files are `images/favicon.svg`, `favicon.ico`, `favicon-*.png` and `apple-touch-icon-180x180.png`, all generated with Pillow.
+- **Font**: the main typeface is **Cormorant Garamond** (with Noto Serif SC for Chinese), chosen to match the owner's game site Dear Z. It is set through `$main-font` in `_themes.scss` and loaded from Google Fonts in `head/custom.html`. Code and news dates stay monospace. Regular (400) looked too thin to the owner, so body text uses Medium (500) and headings and bold use 700. Only weights listed in the Google Fonts URL are available; add any new weight there too.
 - **Images**: keep full-resolution originals, and serve resized copies (about 1600px full size plus about 640px `-thumb`) made with Python/Pillow, which is available locally.
 - Internal links use `{{ '/path/' | relative_url }}`.
 
@@ -45,4 +48,5 @@ It is a Jekyll site built on the academicpages / Minimal Mistakes template.
 ## Recent work / state
 
 - 2026-09: blue theme (branch `blue_theme`); Scholar publications synced; tennis news added (Sept 2026, Champaign Park District Labor Day tournament).
-- 2026-09-30: added a cat album page and a Dear Z. card to My Life; added a link to The Sentinel's tennis coverage; switched the main font to Cormorant Garamond. Open question: The Sentinel lists the owner as winner of the Beginner/Intermediate **Consolation Final**, while the site says "first place". The owner needs to decide which wording to use.
+- 2026-09-30: added a cat album page (the cat is named **Cheese**, and the album has no captions) and a Dear Z. card to My Life; linked The Sentinel's tennis coverage; switched the main font to Cormorant Garamond.
+- Tennis wording, decided by the owner: **consolation champion, Intermediate Open Singles, Champaign Park District Labor Day Tennis Tournament**. Don't call it "first place". The post URL still contains `first-place`, and was left alone to avoid breaking links.
