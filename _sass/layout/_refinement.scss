@@ -43,7 +43,7 @@ html { font-size: 15px; }
 body {
   /* The inherited navigation script writes a fixed-header offset inline. */
   padding-top: 0 !important;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: $main-font;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
@@ -138,6 +138,33 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .cv-download { margin-bottom: 0.6rem; }
 .news-list { list-style: none; padding-left: 0 !important; }
 .news-list li { display: grid; grid-template-columns: 6rem 1fr; gap: 1rem; margin-bottom: 0.8rem; }
+/* My Life preview cards (cat album, Dear Z.) */
+.life-card {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  max-width: 560px;
+  padding: 0.7rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.life-card:hover { border-color: var(--theme-accent); transform: translateY(-2px); color: inherit; }
+.life-card img { flex: 0 0 auto; width: 150px; height: 100px; object-fit: cover; border-radius: 4px; }
+.life-card__text { display: flex; flex-direction: column; gap: 0.25rem; }
+.life-card__text strong { color: var(--theme-heading); }
+.life-card__text span { color: var(--global-text-color-light); font-size: 0.93rem; line-height: 1.5; }
+
+/* Cat photo album */
+.cat-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+.cat-gallery figure { margin: 0; }
+.cat-gallery a { display: block; overflow: hidden; border-radius: 4px; }
+.cat-gallery img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; transition: transform 0.25s ease; }
+.cat-gallery a:hover img { transform: scale(1.04); }
+.cat-gallery figcaption { margin-top: 0.35rem; font-size: 0.87rem; color: var(--global-text-color-light); line-height: 1.4; }
+
 .news-list time { font-family: Consolas, "SFMono-Regular", monospace; font-size: 0.8rem; color: var(--global-link-color); padding-top: 0.2rem; }
 
 @media (min-width: 925px) {
@@ -160,6 +187,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   #main, .masthead__inner-wrap, .page__footer footer { padding-left: 1.25rem; padding-right: 1.25rem; }
   .page__title { font-size: 1.5rem; }
   .news-list li { grid-template-columns: 4.8rem 1fr; gap: 0.6rem; }
+  .life-card img { width: 100px; height: 80px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -12,7 +12,27 @@ Outside research, I enjoy games, books, film, and time outdoors.
 
 ## Tennis 🎾
 
-**September 2026:** I won [first place in Beginner/Intermediate Open Singles]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }}) at the Champaign Park District tennis tournament!
+**September 2026:** I won [first place in Beginner/Intermediate Open Singles]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }}) at the Champaign Park District tennis tournament! ([News coverage in The Sentinel](https://www.oursentinel.com/2026/09/labor-day-tennis-tournament-brings.html))
+
+## My Cat 🐱
+
+<a class="life-card" href="{{ '/my-life/cat/' | relative_url }}">
+  <img src="{{ '/images/cat/web/cat-01-thumb.jpg' | relative_url }}" alt="My orange cat napping on a cardboard lounger" loading="lazy">
+  <span class="life-card__text">
+    <strong>Meet my orange cat</strong>
+    <span>Naps, zoomies, and a very serious stare. See the photo album →</span>
+  </span>
+</a>
+
+## Dear Z. 🎮
+
+<a class="life-card" href="https://xiayu-zhao.github.io/DearZ-web/">
+  <img src="{{ '/images/dearz-card.jpg' | relative_url }}" alt="Dear Z. ink-wash concept art" loading="lazy">
+  <span class="life-card__text">
+    <strong>Dear Z. — my indie game in development</strong>
+    <span>A 2.5D narrative puzzle-platformer built with Unity 6: help Z collect their memory debris and rebuild a shattered storybook world. Visit the game's website →</span>
+  </span>
+</a>
 
 ## Notes on life
 
