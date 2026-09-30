@@ -37,7 +37,7 @@ author_profile: true
 
 ## Sports
 
-* 🎾 **First Place**, Beginner/Intermediate Open Singles, Champaign Park District tennis tournament (September 2026). [News]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }})
+* 🎾 **Consolation Champion**, Intermediate Open Singles, Champaign Park District Labor Day Tennis Tournament (September 2026). [News]({{ '/posts/2026/09/tennis-tournament-first-place/' | relative_url }})
 
 ## Scholarships and Fellowships
 

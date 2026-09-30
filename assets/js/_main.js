@@ -23,12 +23,10 @@ let determineComputedTheme = () => {
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 
 // Set the theme on page load or when explicitly called
+// The site is dark-only (the light theme and its toggle were removed), so ignore
+// saved or OS preferences.
 let setTheme = (theme) => {
-  const use_theme =
-    theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    browserPref;
+  const use_theme = "dark";
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");

@@ -44,11 +44,12 @@ body {
   /* The inherited navigation script writes a fixed-header offset inline. */
   padding-top: 0 !important;
   font-family: $main-font;
+  /* Cormorant Garamond has fine strokes; Medium (500) reads clearer than Regular. */
+  font-weight: 500;
   line-height: 1.7;
-  -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 { font-weight: 600; line-height: 1.35; color: var(--theme-heading); }
+h1, h2, h3, h4, h5, h6 { font-weight: 700; line-height: 1.35; color: var(--theme-heading); }
 h1, .page__title { font-size: 1.7rem; letter-spacing: -0.025em; line-height: 1.35; }
 .page__title { margin-bottom: 1.5rem; }
 .page__title::after {
@@ -62,7 +63,7 @@ h1, .page__title { font-size: 1.7rem; letter-spacing: -0.025em; line-height: 1.3
 h2 { font-size: 1.15rem; }
 h3 { font-size: 1rem; }
 h4, h5, h6 { font-size: 0.95rem; }
-strong { font-weight: 600; }
+strong, b { font-weight: 700; }
 p { margin: 0 0 1rem; }
 a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
 a:focus, button:focus, summary:focus,
@@ -159,11 +160,9 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 
 /* Cat photo album */
 .cat-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
-.cat-gallery figure { margin: 0; }
 .cat-gallery a { display: block; overflow: hidden; border-radius: 4px; }
 .cat-gallery img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; transition: transform 0.25s ease; }
 .cat-gallery a:hover img { transform: scale(1.04); }
-.cat-gallery figcaption { margin-top: 0.35rem; font-size: 0.87rem; color: var(--global-text-color-light); line-height: 1.4; }
 
 .news-list time { font-family: Consolas, "SFMono-Regular", monospace; font-size: 0.8rem; color: var(--global-link-color); padding-top: 0.2rem; }
 
