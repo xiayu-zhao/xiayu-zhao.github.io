@@ -1,7 +1,7 @@
 \documentclass[11pt,a4paper]{article}
 
 % Packages
-\usepackage[margin=0.75in]{geometry}
+\usepackage[margin=0.7in]{geometry}
 \usepackage{titlesec}
 \usepackage{enumitem}
 \usepackage{hyperref}
@@ -24,7 +24,7 @@
 
 % Section formatting
 \titleformat{\section}{\large\bfseries\scshape}{}{0em}{}[\titlerule]
-\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\section}{0pt}{9pt}{5pt}
 
 % Subsection formatting
 \titleformat{\subsection}[runin]{\bfseries}{}{0em}{}
@@ -53,7 +53,7 @@
 %---------- RESEARCH INTERESTS ----------
 \section{Research Interests}
 
-AI and machine learning algorithms for seamless human-robot collaboration; Computer vision techniques for automated inspection tasks; Construction robotics; Robotic control and navigation.
+Construction robotics; aerial--ground multi-robot systems (UAV--UGV, hexapod, and soft pneumatic platforms) for contact-based infrastructure inspection; visual--tactile--spatial multimodal sensing; adaptive robotic control and reinforcement learning; LLM-driven robot navigation and human--robot collaboration; computer vision for defect inspection.
 
 %---------- EDUCATION ----------
 \section{Education}
@@ -154,13 +154,6 @@ Project Director: Satoshi Ohashi
     \item Participated in the Preliminary design of the Unicorn Island project in Sichuan.
 \end{itemize}
 
-\entrytitle{Intern Architect}, \entrydetail{China Architecture Design \& Research Institute} \hfill Jun.\ -- Sept.\ 2018 \\
-Project Director: Professor Xinggang Li
-\begin{itemize}[nosep, leftmargin=1.5em]
-    \item Participated in the design of the \textit{National Sliding Center} in the Beijing 2022 Winter Olympic Games in the Yanqing District.
-\end{itemize}
-
-
 \entrytitle{Co-designer}, \entrydetail{Model Slicing and Toolpath Plug-in Development for Robotic Construction} \hfill Mar.\ -- Apr.\ 2023 \\
 Project Leaders: Chenwei Sun, Weiguo Xu
 
@@ -217,9 +210,30 @@ Project Leaders: Weiguo Xu, Yuan Gao, Chenwei Sun \,|\, Wujiazhuang, Hebei, Chin
     (Sponsor: \entrydetail{Ministry of Education of the People's Republic of China})
 \end{itemize}
 
+%---------- PATENTS & SOFTWARE COPYRIGHTS ----------
+\section{Patent \& Software Copyright}
+
+\textit{All applications are actively processed by the University of Illinois Office of Technology Management (OTM) for United States Provisional Application.}
+
+\subsection*{Patent Applications}
+\begin{enumerate}[nosep, leftmargin=1.8em]
+    \item BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Method and System for Robotic Navigation in Construction Environments
+    \item Modular Bi-Directionally Bendable Soft Pneumatic Multi-Leg UAV Landing and Perception Platform for Contact-Based Infrastructure Inspection
+    \item Soft Pneumatic UAV Landing and Perception Platform with Visual--Tactile--Spatial Multimodal Sensing for Contact-Based Infrastructure Inspection
+    \item UAV-Deployable Soft-Rigid Hexapod Ground Module with Auto-Spinning Locking Undercarriage and Flippable Multimodal Inspection Arm for Non-Destructive Inspection and Multimodal Data Collection on Fragile Infrastructure
+\end{enumerate}
+
+\subsection*{Software Copyright Applications}
+\begin{enumerate}[nosep, leftmargin=1.8em]
+    \item BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Software Framework for Robotic Navigation in Construction Environments
+    \item SaHa: Slope-Adaptive and Hazard-Aware Robotic Control Software for Hexapod Roof Inspection
+    \item A UAV-Deployable Soft-Rigid Hexapod Ground Module for Multimodal Visual--Tactile--Spatial Data Collection on Fragile Infrastructure
+\end{enumerate}
+
 %---------- PUBLICATIONS ----------
 \section{Publications}
-\InputIfFileExists{CV_latex/publications.tex}{}{\input{publications.tex}}
+{\setlist[enumerate]{itemsep=2pt, topsep=4pt}
+\InputIfFileExists{CV_latex/publications.tex}{}{\input{publications.tex}}}
 
 \subsection*{Additional Conference Abstract}
 \begin{itemize}[leftmargin=1.5em]
@@ -250,16 +264,14 @@ Role: \textbf{Exhibit Designer} \,|\, \entrydetail{Zhangjiawan Design Town}, Bei
 %---------- SERVICE ACTIVITIES & PROFESSIONAL LEADERSHIP ----------
 \section{Professional Leadership \& Service Activities }
 
-\subsection*{Professional Committees}
-
-% Placeholder: Add professional committee memberships here as they become available.
-\textit{To be updated.}
-
 \subsection*{Journal \& Conference Reviewer (Selected)}
 
 \textit{Journal Reviewer}
 \begin{itemize}[nosep, leftmargin=1.5em]
+    \item Automation in Construction
+    \item Engineering Applications of Artificial Intelligence
     \item Developments in the Built Environment
+    \item Journal of Mechanical Engineering Science
     \item ASCE Open Journal
 \end{itemize}
 
@@ -271,7 +283,8 @@ Role: \textbf{Exhibit Designer} \,|\, \entrydetail{Zhangjiawan Design Town}, Bei
     \item 42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)
     \item 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)
     \item 12th International Conference on Industrial Ecology (ISIE 2025)
-    \item CI \& CRC 2026 Joint Conference
+    \item ASCE CI \& CRC 2026 Joint Conference
+    \item 2026 IEEE International Conference on Intelligence and Safety for Robotics / Safety of Industrial Automated Systems (ISR-SIAS 2026)
 \end{itemize}
 
 

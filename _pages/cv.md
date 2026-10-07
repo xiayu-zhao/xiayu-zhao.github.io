@@ -11,11 +11,11 @@ redirect_from:
 
 <p class="cv-download"><a href="{{ base_path }}/CV_latex/CV_XiayuZhao.pdf">Download CV (PDF)</a></p>
 
-*Last updated: September 2026*
+*Last updated: October 2026*
 
 ## Research Interests
 
-AI for human–robot collaboration; computer vision for inspection; construction robotics; control and navigation.
+Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, and soft pneumatic platforms) for contact-based infrastructure inspection; visual–tactile–spatial multimodal sensing; adaptive robotic control and reinforcement learning; LLM-driven robot navigation and human–robot collaboration; computer vision for defect inspection.
 
 ## Education
 
@@ -95,11 +95,6 @@ AI for human–robot collaboration; computer vision for inspection; construction
   * Contributed to the winning competition design for *Tower C of Shenzhen Bay Super Headquarters*
   * Contributed to preliminary design for Unicorn Island, Sichuan.
 
-* **Intern Architect**, China Architecture Design & Research Institute
-  * Jun. - Sept. 2018
-  * Project Director: Professor Xinggang Li
-  * Contributed to the design of the *National Sliding Center* in the Beijing 2022 Winter Olympic Games in the Yanqing District
-
 * **Co-designer**, Model Slicing and Toolpath Plug-in Development for Robotic Construction
   * Mar. - Apr. 2023
   * Project Leaders: Chenwei Sun, Weiguo Xu
@@ -125,9 +120,24 @@ AI for human–robot collaboration; computer vision for inspection; construction
   * 2020
   * Project Leaders: Weiguo Xu, Yuan Gao, Chenwei Sun | Wujiazhuang, Hebei, China
 
+## Patent & Software Copyright
+
+*All applications are actively processed by the University of Illinois Office of Technology Management (OTM) for United States Provisional Application.*
+
+### Patent Applications
+1. BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Method and System for Robotic Navigation in Construction Environments
+2. Modular Bi-Directionally Bendable Soft Pneumatic Multi-Leg UAV Landing and Perception Platform for Contact-Based Infrastructure Inspection
+3. Soft Pneumatic UAV Landing and Perception Platform with Visual-Tactile-Spatial Multimodal Sensing for Contact-Based Infrastructure Inspection
+4. UAV-Deployable Soft-Rigid Hexapod Ground Module with Auto-Spinning Locking Undercarriage and Flippable Multimodal Inspection Arm for Non-Destructive Inspection and Multimodal Data Collection on Fragile Infrastructure
+
+### Software Copyright Applications
+1. BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Software Framework for Robotic Navigation in Construction Environments
+2. SaHa: Slope-Adaptive and Hazard-Aware Robotic Control Software for Hexapod Roof Inspection
+3. A UAV-Deployable Soft-Rigid Hexapod Ground Module for Multimodal Visual-Tactile-Spatial Data Collection on Fragile Infrastructure
+
 ## Publications
 
-*Updated from Google Scholar, September 2026. All 24 records are listed, including two similar 2021 entries that may refer to the same article.*
+*Updated from Google Scholar, September 2026.*
 
 <ul class="cv-publications">
 {% for post in site.publications reversed %}{% include archive-single-cv.html %}{% endfor %}
@@ -172,7 +182,10 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 ### Journal & Conference Reviewer (Selected)
 
 *Journal Reviewer*
+* Automation in Construction
+* Engineering Applications of Artificial Intelligence
 * Developments in the Built Environment
+* Journal of Mechanical Engineering Science
 * ASCE Open Journal
 
 *Conference Reviewer*
@@ -182,7 +195,8 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 * 42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)
 * 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)
 * 12th International Conference on Industrial Ecology (ISIE 2025)
-* CI & CRC 2026 Joint Conference
+* ASCE CI & CRC 2026 Joint Conference
+* 2026 IEEE International Conference on Intelligence and Safety for Robotics / Safety of Industrial Automated Systems (ISR-SIAS 2026)
 
 ### Leadership and Activities
 

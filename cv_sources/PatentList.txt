@@ -1,0 +1,10 @@
+Patent Track:
+1- BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Method and System for Robotic Navigation in Construction Environments
+2- Modular Bi-Directionally Bendable Soft Pneumatic Multi-Leg UAV Landing and Perception Platform for Contact-Based Infrastructure Inspection
+3- Soft Pneumatic UAV Landing and Perception Platform with Visual-Tactile-Spatial Multimodal Sensing for Contact-Based Infrastructure Inspection
+4- UAV-Deployable Soft-Rigid Hexapod Ground Module with Auto-Spinning Locking Undercarriage and Flippable Multimodal Inspection Arm for Non-Destructive Inspection and Multimodal Data Collection on Fragile Infrastructure
+
+Software/copyright Track:
+1- BEAM (Bidirectional Environment Abstraction for Multi-Robot): A Software Framework for Robotic Navigation in Construction Environments
+2- SaHa: Slope-Adaptive and Hazard-Aware Robotic Control Software for Hexapod Roof Inspection
+3- A UAV-Deployable Soft-Rigid Hexapod Ground Module for Multimodal Visual–Tactile–Spatial  Data Collection on Fragile Infrastructure
