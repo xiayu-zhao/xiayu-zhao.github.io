@@ -20,8 +20,6 @@ volume: '10'
 issue: ''
 scholar_id: MXK_kJrjxJIC
 scholarurl: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:MXK_kJrjxJIC
-note: Google Scholar lists two similar 2021 records for this topic with different English titles. Both records are
-  retained here; they may refer to the same article.
 ---
 
 A review of 3D printing in construction: research progress, applications, implementation, and future directions for additive manufacturing.

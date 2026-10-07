@@ -19,8 +19,6 @@ issue: ''
 scholar_id: 9yKSN-GCB0IC
 scholarurl: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:9yKSN-GCB0IC
 paperurl: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a1trBDoAAAAJ&citation_for_view=a1trBDoAAAAJ:9yKSN-GCB0IC
-note: Google Scholar lists two similar 2021 records for this topic with different English titles. Both records are
-  retained here; they may refer to the same article.
 ---
 
 A review of research progress and current applications of 3D printing construction technology.
