@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2026.8.20)  7 OCT 2026 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2026.8.20)  8 OCT 2026 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -348,10 +348,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 85.
 
 
 [1
@@ -359,16 +365,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 {C:/Users/zhaox/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 198.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 198.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 198.
-
 
 [3]
-Overfull \hbox (0.15921pt too wide) in paragraph at lines 228--229
+Overfull \hbox (0.15921pt too wide) in paragraph at lines 219--220
 []\OT1/cmr/m/n/10.95 BEAM (Bidi-rec-tional En-vi-ron-ment Ab-strac-tion for Mul
 ti-Robot): A Soft-ware Frame-work for Robotic
  []
@@ -389,16 +388,16 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `CV_XiayuZhao.out' has not changed.
-(rerunfilecheck)             Checksum: 19F6CE92E57C32C1E8C1DA128C5F0568;1901.
+(rerunfilecheck)             Checksum: 6168B9CBD493FD5381BECCEE0AAD0C64;1838.
  ) 
 Here is how much of TeX's memory you used:
- 10007 strings out of 473530
- 154898 string characters out of 5714794
- 579320 words of memory out of 5000000
+ 10006 strings out of 473530
+ 154891 string characters out of 5714794
+ 580320 words of memory out of 5000000
  33095 multiletter control sequences out of 15000+600000
  564085 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1203b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1203b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\zhaox\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/zhaox/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/zhaox/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -407,10 +406,11 @@ ype1/public/amsfonts/cm/cmbx8.pfb><C:/Users/zhaox/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zhaox/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zhaox/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/zhaox/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_XiayuZhao.pdf (6 pages, 158173 bytes).
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/z
+haox/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CV_XiayuZhao.pdf (6 pages, 166129 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 

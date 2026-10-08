@@ -6,6 +6,7 @@ Journal of Mechanical Engineering Science
 ASCE Open Journal
 
 Conference:
+2027 IEEE International Conference on Robotics & Automation (ICRA 2027)
 ASCE International Conference on Computing in Civil Engineering (i3CE 2024)
 ASCE International Conference on Computing in Civil Engineering (i3CE 2025)
 ASCE International Conference on Computing in Civil Engineering (i3CE 2026)

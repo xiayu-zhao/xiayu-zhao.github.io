@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Xiayu (Summer) Zhao**, a Civil Engineering PhD student and Master of Computer Science student at the University of Illinois Urbana-Champaign. I study robotics and AI for construction in the [RAISe Lab](https://raiselab.cee.illinois.edu/), advised by [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli), and collaborate closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu).
+I'm **Xiayu (Summer) Zhao**, a Civil Engineering Ph.D. candidate and Master of Computer Science student at the University of Illinois Urbana-Champaign. I study robotics and AI for construction in the [RAISe Lab](https://raiselab.cee.illinois.edu/), advised by [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli), and collaborate closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu).
 
 Previously, I was a Research Engineer at [Tsinghua University](https://www.tsinghua.edu.cn/en/), developing large-scale robotic construction technologies and control software, with work in digital fabrication, 3D concrete printing, computational design, and algorithm optimization.
 

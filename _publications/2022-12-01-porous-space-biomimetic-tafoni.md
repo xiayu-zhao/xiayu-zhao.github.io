@@ -1,7 +1,7 @@
 ---
 title: Porous space—biomimetic of tafoni in computational design
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-12-01-porous-space-biomimetic-tafoni
 excerpt: Computational design methods translate tafoni (honeycomb-like rock formations) into porous architectural
   spaces.

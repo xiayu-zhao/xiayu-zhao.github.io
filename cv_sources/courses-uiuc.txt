@@ -1,0 +1,15 @@
+CS 546, DHT	Advanced Topics in NLP
+CS 527, S	Topics in Software Engineering
+CS 510, A1	Advanced Information Retrieval
+CS 498, GCG	Mobile Robotics for CS
+CS 562, SML	Adv Top in Sec, Priv and ML
+CS 415, GG	Game Development
+CS 440, QG	Artificial Intelligence
+ECE 498, BH4	LLM Reasoning for Engineering
+IE 534, D	Deep Learning
+CS 598, KKH	ADV Comp. Topics in Robotics
+CEE 598, CR	Construction Robotics
+CEE 498, CS4	Construction Safety
+CS 598, YL	Deep Lrng. for Robotic Manip.
+ECE 470, AL	Introduction to Robotics
+CS 443, RLG	Reinforcement Learning

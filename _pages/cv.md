@@ -19,24 +19,26 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
 
 ## Education
 
-* **PhD Student**, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
+* **Ph.D. Candidate**, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
   * Spring 2024 - present · Advisor: Dr. Houtan Jebelli · GPA: 3.91/4.00
+  * Dissertation: *Endowing Aerial Robots with Ground Mobility and Multimodal Perception for Autonomous Roof Inspection in Construction*
 
 * **Master of Computer Science**, Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign
   * 2025 - 2027
   * Focus: Vision, Graphics, Interaction, and Robotics
   * GPA: 4.00/4.00 (Fall 2025 - present)
-  * Coursework: CS598 (Deep Learning for Robotic Manipulation) A, CS547/IE534 (Deep Learning) A+, ECE470 (Introduction to Robotics) A, CS598 (Advanced Computational Topics in Robotics) A-, CS443 (Reinforcement Learning) B+, Ordered Data Structures (Coursera, provided by UIUC), Object-Oriented Data Structures in C++ (Coursera, provided by UIUC)
+  * Coursework: Robotics (introduction to robotics, mobile robotics, deep learning for robotic manipulation, advanced computational robotics, construction robotics); AI and machine learning (artificial intelligence, deep learning, reinforcement learning, advanced NLP, LLM reasoning for engineering, security and privacy in ML); software and systems (software engineering, information retrieval, game development).
 
-* **Master of Architecture**, Tsinghua University, Beijing, China
-  * 2019 - 2021
-  * Focus: Robotic Construction, 3D Printing, Computational Design
-  * GPA: 3.97/4.00
+* **Master's Degree**, Tsinghua University
+  * 2019 - 2021 · Grade: 3.97/4.00
+  * Teaching Assistant | Robotic Digital Fabrication in Construction
+  * Research Assistant | 3D Concrete Printing, Project Management and Lab Organization, Computational Design, Algorithm Optimization, Machine Learning, Data Visualization
 
-* **Bachelor of Architecture**, Tianjin University, Tianjin, China
-  * 2014 - 2019
-  * Focus: Computational Design
-  * GPA: 3.85/4.00
+* **Bachelor's Degree**, Tianjin University
+  * 2019 · Grade: 3.92/4.00
+  * China National Scholarship ×3 (top 1%, awarded in 2015, 2016, and 2018)
+  * University Outstanding Student Award (top 0.1%)
+  * Department Outstanding Graduate Award (top 2%)
 
 ## Academic Appointments
 
@@ -45,8 +47,7 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
 
 * **Graduate Student**, Icon Lab, Penn State University, Fall 2023
   * *Robotic Construction Safety Training Prototype with Immersive Technology (VR)*
-  * Role: **Team Leader** | Supervisor: Professor John Messner | TA: Saleh Alghamdi
-  * Team: Tessa Beauchat, Islam Gharaibeh, Fangxiao Li
+  * Role: **Team Leader** | Supervisor: Professor John Messner
   * Connected ROS and Unity 3D to control a robot-arm-mounted unmanned ground vehicle (UGV) in immersive simulation.
   * Built a game-based collision-avoidance training prototype for workers in human–robot construction teams.
 
@@ -54,14 +55,6 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
   * Jul. 2021 - Apr. 2023 · Supervisor: Professor Weiguo Xu
   * Extracted design information to program and control robot arms for large-scale 3D printing
   * Built robotic construction plug-ins for 3D printing, metal and wood cutting, and wall painting.
-
-* **Master's Thesis and Graduation Design**, Spring 2021
-  * *Large-Scale Multi-Robots 3D Printing Construction Planning* | Instructor: Professor Weiguo Xu
-
-* **Student Assistant**, Built Environmental Virtual Reality Lab, Tianjin University, 2016 - 2017
-  * Instructor: Professor Sinan Yuan
-  * Sponsor: National Natural Science Foundation
-  * Related Methods: Field research, Data Collection, 3D Modeling, Data Input, Data Visualization using a Game Engine, VR Experience for Volunteers, Analysis of Statistical Results, Spatial morphology, and Human Spatial Cognition Mechanisms
 
 ## Teaching and Mentoring
 
@@ -94,10 +87,6 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
   * Project Director: Satoshi Ohashi
   * Contributed to the winning competition design for *Tower C of Shenzhen Bay Super Headquarters*
   * Contributed to preliminary design for Unicorn Island, Sichuan.
-
-* **Co-designer**, Model Slicing and Toolpath Plug-in Development for Robotic Construction
-  * Mar. - Apr. 2023
-  * Project Leaders: Chenwei Sun, Weiguo Xu
 
 * **Principal Designer**, Rotatable Fine Extrusion Print Head Design for 3DCP Decorative Panels
   * Oct. 2021 - Feb. 2022
@@ -189,6 +178,7 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 * ASCE Open Journal
 
 *Conference Reviewer*
+* 2027 IEEE International Conference on Robotics & Automation (ICRA 2027)
 * ASCE International Conference on Computing in Civil Engineering (i3CE 2024)
 * ASCE International Conference on Computing in Civil Engineering (i3CE 2025)
 * ASCE International Conference on Computing in Civil Engineering (i3CE 2026)
