@@ -1,0 +1,120 @@
+% One-page CV of Xiayu Zhao.
+% Condensed from CV_XiayuZhao.tex (the full CV). Keep the two in sync.
+% Build: pdflatex CV_XiayuZhao_1page.tex (run twice, from inside CV_latex/). Must stay at 1 page.
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.42in,top=0.36in,bottom=0.32in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newtxtext}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{linkblue}{HTML}{144A86}
+\hypersetup{
+    pdfauthor={Xiayu Zhao},
+    pdftitle={Xiayu Zhao - CV (one page)},
+    colorlinks=true, linkcolor=linkblue, urlcolor=linkblue,
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\linespread{0.97}
+
+\titleformat{\section}{\color{linkblue}\normalsize\bfseries\scshape}{}{0em}{}[\vspace{-3pt}\color{linkblue}\titlerule]
+\titlespacing*{\section}{0pt}{4.5pt}{2pt}
+
+\setlist{nosep, leftmargin=1.1em, labelsep=0.35em}
+\setlist[itemize]{label=\textbullet}
+
+% \entry{Title}{Place}{Dates}
+\newcommand{\entry}[3]{\textbf{#1}, \textit{#2} \hfill #3\par}
+\newcommand{\me}{\textbf{Zhao, X.}}
+
+\begin{document}
+\small
+
+%---------- HEADER ----------
+\begin{center}
+    {\Large\textsc{Xiayu Zhao}}\\[1pt]
+    Ph.D. Candidate, Civil \& Environmental Engineering, University of Illinois Urbana-Champaign (UIUC) \,|\, \href{https://raiselab.cee.illinois.edu/}{RAISe Lab}\\
+    (582)\,203-0776 \,|\, \href{mailto:xiayuz3@illinois.edu}{xiayuz3@illinois.edu} \,|\, \href{https://xiayu-zhao.github.io/}{Personal Webpage} \,|\, \href{https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en}{Google Scholar} \,|\, \href{https://www.linkedin.com/in/xiayuzhao}{LinkedIn} \,|\, 205 N Mathews Ave, Urbana, IL 61801
+\end{center}
+\vspace{-6pt}
+
+%---------- RESEARCH INTERESTS ----------
+\section{Research Interests}
+Construction robotics; aerial--ground multi-robot systems (UAV--UGV, hexapod, soft pneumatic platforms) for contact-based infrastructure inspection; visual--tactile--spatial multimodal sensing; adaptive control and reinforcement learning; LLM-driven robot navigation and human--robot collaboration; computer vision for defect inspection.
+
+%---------- EDUCATION ----------
+\section{Education}
+\entry{Ph.D. Candidate, Civil and Environmental Engineering}{UIUC}{Spring 2024 -- present}
+\quad Advisor: Dr.\ Houtan Jebelli \,|\, GPA 3.93/4.00 \,|\, Dissertation: \textit{Endowing Aerial Robots with Ground Mobility and Multimodal Perception for Autonomous Roof Inspection in Construction}\par
+\entry{Master of Computer Science}{Siebel School of Computing and Data Science, UIUC}{2025 -- 2027}
+\quad Vision, Graphics, Interaction, and Robotics \,|\, GPA 4.00/4.00 \,|\, Robotics, deep \& reinforcement learning, NLP/LLM reasoning, software engineering\par
+\entry{Master's Degree}{Tsinghua University}{2019 -- 2021}
+\quad Grade 3.97/4.00 \,|\, Research Assistant in 3D concrete printing and computational design; TA, Robotic Digital Fabrication in Construction\par
+\entry{Bachelor's Degree}{Tianjin University}{2019}
+\quad Grade 3.92/4.00 \,|\, China National Scholarship $\times$3 (top 1\%) \,|\, University Outstanding Student Award (top 0.1\%)\par
+
+%---------- EXPERIENCE ----------
+\section{Research \& Professional Experience}
+\entry{Graduate Research Assistant}{\href{https://raiselab.cee.illinois.edu/}{RAISe Lab}, UIUC (Prof.\ Houtan Jebelli)}{Spring 2024 -- present}
+\begin{itemize}
+\item Build aerial--ground multi-robot systems (UAV--UGV, UAV-deployable hexapod modules, soft pneumatic landing and gripping platforms) for contact-based roof and infrastructure inspection.
+\item Develop visual--tactile--spatial multimodal sensing and real-time computer-vision defect segmentation for robotic inspection.
+\item Design slope-adaptive, hazard-aware kinematic/dynamic control and deep-reinforcement-learning navigation for unstructured construction terrain.
+\item Create LLM-driven, open-vocabulary robot navigation (value maps, hierarchical scene graphs) for human--robot collaboration on construction sites.
+\end{itemize}
+\entry{Research Engineer / Research Assistant}{DAIC Lab \& Institute of Future Human Habitats, Tsinghua University}{2021 -- 2023}
+\quad Programmed robot arms for large-scale 3D printing; developed robotic-construction plug-ins (printing, metal/wood cutting, wall painting).\par
+\entry{3D Concrete Printing Specialist}{Heqing Digital Building Technology Co.}{2020 -- 2023}
+\quad On-site robotic construction projects in China and the US: form and print-path design, robot programming and operation.\par
+\entry{Intern Architect}{Zaha Hadid Architects}{Jun.\ -- Sept.\ 2020}
+\quad Winning competition design of \textit{Tower C, Shenzhen Bay Super Headquarters}; preliminary design of the Unicorn Island project.\par
+\textbf{Teaching Assistant:} Robotic Construction Research Series, Tsinghua (2022--23; advised master's graduation projects with KUKA robot arms); Tsinghua Parametric Design Workshop (2019); CAADRIA Workshop (2018).\par
+
+%---------- PUBLICATIONS ----------
+\section{Selected Publications}
+{\footnotesize
+\textit{23 papers (4 journal, 19 conference); full list at \href{https://xiayu-zhao.github.io/publications/}{Personal Webpage} and \href{https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en}{Google Scholar}.}
+\begin{enumerate}[leftmargin=1.5em, label={[\arabic*]}]
+\item \me, Liu, Y., Jebelli, H. (2026). A soft pneumatic UAV landing and perception platform for gentle contact-based infrastructure inspection via visual-tactile-spatial multimodal sensing. \textit{Computer-Aided Civil and Infrastructure Engineering}.
+\item \me, Jebelli, H. (2025). A computational method for real-time roof defect segmentation in robotic inspection. \textit{Computer-Aided Civil and Infrastructure Engineering}, 40(23). \textbf{(Cover feature)}
+\item \me, Liu, Y., Jebelli, H. (2025). Module-enhanced slope-adaptive and hazard-aware hexapod robotic system for safe roof inspection. \textit{ASCE OPEN}, 3(1).
+\item Guo, X., Li, Y., \ldots, \me, et al. (2026). Toward engineering AGI: Benchmarking the engineering design capabilities of LLMs. \textit{NeurIPS} (Datasets \& Benchmarks).
+\item \me, Liu, Y., Driggs-Campbell, K., Jebelli, H. (2026). Tactile-aware soft hexapod UAV gripper for multi-modal aerial manipulation in construction. \textit{CRC 2026}.
+\item \me, Jebelli, H. (2026). Open-vocabulary, context-aware robot navigation on construction sites: LLM-driven value maps with hierarchical scene graphs. \textit{CRC 2026}.
+\item \me, Liu, Y., Jebelli, H. (2026). Hybrid UAV-UGV system with interchangeable ground modules for multi-terrain construction site inspection. \textit{i3CE 2025}.
+\item \me, Ren, T., Jebelli, H. (2026). LLM-driven safe robotic navigation in construction sites: A prompt engineering framework with terrain-adaptive path planning. \textit{i3CE 2025}.
+\item \me, Ren, T., Liu, Y., Jebelli, H. (2025). A pneumatic sensor-equipped hexapod landing gear and gripper system for gentle drone contact with building envelopes. \textit{Olympiad in Engineering Science}.
+\item \me, Ren, T., Liu, Y., Jebelli, H. (2025). Sensor fusion and hierarchical inspection strategy for aerial-ground multi-robot system. \textit{ISARC 2025}.
+\item \me, Jebelli, H. (2025). Adaptive kinematic and dynamic control for hexapod robots in complex construction environments. \textit{ISARC 2025}.
+\item \me, Jebelli, H. (2024). Grounding large language models in robot control: Facilitating human-robot collaboration in construction. \textit{i3CE 2024}.
+\item \me, Ren, T., Jebelli, H. (2024). Adaptive intelligence for robot navigation efficiency with a deep reinforcement learning-based cyber-physical system. \textit{i3CE 2024}.
+\end{enumerate}}
+
+%---------- PATENTS ----------
+\section{Patent \& Software Copyright Applications}
+\textit{4 patents and 3 software copyrights, in process with UIUC OTM for U.S. Provisional Application:} BEAM multi-robot navigation in construction (patent \& software); soft pneumatic multi-leg UAV landing and perception platform; visual--tactile--spatial soft UAV platform; UAV-deployable soft--rigid hexapod ground module (patent \& software); SaHa hexapod roof-inspection control software.\par
+
+%---------- AWARDS ----------
+\section{Awards \& Honors}
+\textbf{First Place}, ASCE 2025 Global Robotics and Automation Competition (2025) \,|\, \textbf{Olympiad Medalist}, All Engineering Field, Olympiad in Engineering Science, Univ.\ of Stavanger (2025) \,|\, \textbf{Journal Cover Feature}, \textit{Computer-Aided Civil and Infrastructure Engineering} (2025) \,|\, University Graduate Fellowship \& College of Engineering Scholarship, Penn State (2023) \,|\, China National Scholarship $\times$3 (2015, 2016, 2018) \,|\, Tianjin University Outstanding Student Award (1/1000, 2019) \,|\, eVolo Skyscraper Competition Honorable Mention (2018)\par
+
+%---------- SERVICE ----------
+\section{Service, Leadership \& Exhibitions}
+\textbf{Journal reviewer:} Automation in Construction; Engineering Applications of Artificial Intelligence; Journal of Infrastructure Intelligence and Resilience; Developments in the Built Environment; Journal of Mechanical Engineering Science; ASCE OPEN.\par
+\textbf{Conference reviewer:} IEEE ICRA 2027; ASCE i3CE 2024, 2025, 2026; ISARC 2025, 2026, 2027; ISIE 2025; ASCE CI \& CRC 2026 Joint Conference; IEEE ISR-SIAS 2026.\par
+\textbf{Membership \& leadership:} ASCE Student Member (2023--); Team Leader, Data Forum Center, Tsinghua Student Union (2020); Cat Foster Volunteer, Vermilion County Animal Shelter (2025--).\par
+\textbf{Exhibitions \& speeches:} Keynote Speaker \& Lead Exhibit Designer, Shenzhen Design Week (2021); Lead Exhibit Designer, Bi-City Biennale of Urbanism/Architecture (2022); Exhibit Designer, Beijing Urban Architecture Biennale (2021).\par
+
+%---------- SKILLS ----------
+\section{Skills}
+\textbf{Robotics:} ROS/ROS~2, Gazebo, PX4/MAVLink UAV control, URScript, KUKA, Arduino sensor integration \,|\, \textbf{AI \& vision:} PyTorch, OpenCV, deep reinforcement learning, LLM prompting \& agents \,|\, \textbf{Programming:} Python, C++, C\#, MATLAB, R \,|\, \textbf{Simulation \& 3D:} Unity, Unreal Engine, Blender \,|\, \textbf{Design/BIM:} Rhino, Grasshopper, SolidWorks, AutoCAD, Revit, Adobe PS/AI \,|\, \textbf{Other:} Git, Linux, \LaTeX, SPSS\par
+
+\end{document}

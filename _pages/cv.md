@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<p class="cv-download"><a href="{{ base_path }}/CV_latex/CV_XiayuZhao.pdf">Download CV (PDF)</a></p>
+<p class="cv-download"><a href="{{ base_path }}/CV_latex/CV_XiayuZhao.pdf">Download CV (PDF)</a> · <a href="{{ base_path }}/CV_latex/CV_XiayuZhao_1page.pdf">Download one-page CV (PDF)</a></p>
 
-*Last updated: October 2026*
+*Last updated: November 2026*
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
 ## Education
 
 * **Ph.D. Candidate**, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
-  * Spring 2024 - present · Advisor: Dr. Houtan Jebelli · GPA: 3.91/4.00
+  * Spring 2024 - present · Advisor: Dr. Houtan Jebelli · GPA: 3.93/4.00
   * Dissertation: *Endowing Aerial Robots with Ground Mobility and Multimodal Perception for Autonomous Roof Inspection in Construction*
 
 * **Master of Computer Science**, Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign
@@ -43,13 +43,11 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
 ## Academic Appointments
 
 * **Graduate Student Research Assistant**, University of Illinois Urbana-Champaign, Urbana, IL, U.S.
-  * Spring 2024 - present · Supervisor: Professor Houtan Jebelli
-
-* **Graduate Student**, Icon Lab, Penn State University, Fall 2023
-  * *Robotic Construction Safety Training Prototype with Immersive Technology (VR)*
-  * Role: **Team Leader** | Supervisor: Professor John Messner
-  * Connected ROS and Unity 3D to control a robot-arm-mounted unmanned ground vehicle (UGV) in immersive simulation.
-  * Built a game-based collision-avoidance training prototype for workers in human–robot construction teams.
+  * Spring 2024 - present · [Robotic, Automation, and Intelligent Sensing (RAISe) Lab](https://raiselab.cee.illinois.edu/) · Supervisor: Professor Houtan Jebelli
+  * Build aerial–ground multi-robot systems (UAV–UGV, UAV-deployable hexapod modules, soft pneumatic landing and gripping platforms) for contact-based roof and infrastructure inspection.
+  * Develop visual–tactile–spatial multimodal sensing and real-time computer-vision defect segmentation for robotic inspection.
+  * Design slope-adaptive, hazard-aware kinematic/dynamic control and deep-reinforcement-learning navigation for unstructured construction terrain.
+  * Create LLM-driven, open-vocabulary robot navigation (value maps, hierarchical scene graphs) for human–robot collaboration on construction sites.
 
 * **Research Assistant**, DAIC (Digital Architecture and Robotic Construction) Lab, Tsinghua University
   * Jul. 2021 - Apr. 2023 · Supervisor: Professor Weiguo Xu
@@ -140,11 +138,11 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 * **Olympiad Medalist** -- All Engineering Field, 2025 Olympiad in Engineering Science (2025)
   * Held at the University of Stavanger, Norway
   * Submission: *Autonomous Drone-based System for Precision, Non-contact Surface Finishing in Construction*
-  * Team: Tianyu Ren, Xiayu (Summer) Zhao, Houtan Jebelli
+  * Team: Tianyu Ren, Xiayu Zhao, Houtan Jebelli
 * **First Place** -- ASCE 2025 Global Robotics and Automation Competition (2025)
   * 2025 ASCE Computing Conference, New Orleans, hosted by the ASCE Computing Division
   * Submission: *Module-enhanced Slope-Adaptive and Hazard-Aware Hexapod Robotic System for Safe Roof Inspection*
-  * Team: Xiayu (Summer) Zhao, Houtan Jebelli
+  * Team: Xiayu Zhao, Houtan Jebelli
 * **Journal Cover Feature** -- *Computer-Aided Civil and Infrastructure Engineering* (2025)
   * Paper: *A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection*
 * Outstanding Graduate Award (2019)
@@ -173,6 +171,7 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 *Journal Reviewer*
 * Automation in Construction
 * Engineering Applications of Artificial Intelligence
+* Journal of Infrastructure Intelligence and Resilience
 * Developments in the Built Environment
 * Journal of Mechanical Engineering Science
 * ASCE Open Journal
@@ -184,6 +183,7 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 * ASCE International Conference on Computing in Civil Engineering (i3CE 2026)
 * 42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)
 * 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)
+* 44th International Symposium on Automation and Robotics in Construction (ISARC 2027)
 * 12th International Conference on Industrial Ecology (ISIE 2025)
 * ASCE CI & CRC 2026 Joint Conference
 * 2026 IEEE International Conference on Intelligence and Safety for Robotics / Safety of Industrial Automated Systems (ISR-SIAS 2026)
@@ -214,17 +214,19 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 
 ### Computer Skills
 
-**Robot Programming/OS:** ROS, Industrial Robot Language (URScript), C#
+**Robot Programming/OS:** ROS/ROS 2, Gazebo, PX4/MAVLink UAV control, Industrial Robot Language (URScript), KUKA, Arduino sensor integration
 
-**Programming:** Matlab, Python, R, C++
+**AI & Computer Vision:** PyTorch, OpenCV, deep reinforcement learning, LLM prompting & agents
 
-**Simulation:** Unity, Unreal Engine
+**Programming:** Python, C++, C#, Matlab, R
+
+**Simulation & 3D:** Unity, Unreal Engine, Blender
 
 **Statistics:** IBM-SPSS
 
 **Design & BIM:** AutoCAD, Revit, Rhino, Grasshopper, Sketch-Up, SolidWorks, Adobe Photoshop, Adobe Illustrator
 
-**Tools:** MS-Office, LaTeX, Google Colab, Jupyter Notebook
+**Tools:** Git, Linux, MS-Office, LaTeX, Google Colab, Jupyter Notebook
 
 ### Languages
 * English: Professional proficiency

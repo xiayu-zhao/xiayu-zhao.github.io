@@ -1,6 +1,7 @@
 Journal:
 Automation in Construction
 Engineering Applications of Artificial Intelligence
+Journal of Infrastructure Intelligence and Resilience
 Developments in the Built Environment
 Journal of Mechanical Engineering Science
 ASCE Open Journal
@@ -10,8 +11,9 @@ Conference:
 ASCE International Conference on Computing in Civil Engineering (i3CE 2024)
 ASCE International Conference on Computing in Civil Engineering (i3CE 2025)
 ASCE International Conference on Computing in Civil Engineering (i3CE 2026)
-42rd International Symposium on Automation and Robotics in Construction (ISARC 2025)
+42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)
 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)
+44th International Symposium on Automation and Robotics in Construction (ISARC 2027)
 12th International Conference on Industrial Ecology (ISIE2025)
 ASCE CI & CRC 2026 Joint Conference
 IEEE ISR-SIAS 2026

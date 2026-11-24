@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2026.8.20)  8 OCT 2026 16:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2026.8.20)  24 NOV 2026 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,34 +330,40 @@ ii
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 54.
+(Font)              using `OT1/cmr/bx/n' instead on input line 55.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 85.
+(Font)              <10.95> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 85.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 85.
+(Font)              <6> on input line 86.
+
+Overfull \hbox (1.07399pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/10.95 Design slope-adaptive, hazard-aware kine-matic/dynamic con
+-trol and deep-reinforcement-learning nav-
+ []
+
 
 
 [1
@@ -367,7 +373,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2]
 
 [3]
-Overfull \hbox (0.15921pt too wide) in paragraph at lines 219--220
+Overfull \hbox (0.15921pt too wide) in paragraph at lines 218--219
 []\OT1/cmr/m/n/10.95 BEAM (Bidi-rec-tional En-vi-ron-ment Ab-strac-tion for Mul
 ti-Robot): A Soft-ware Frame-work for Robotic
  []
@@ -393,11 +399,11 @@ Package rerunfilecheck Info: File `CV_XiayuZhao.out' has not changed.
 Here is how much of TeX's memory you used:
  10006 strings out of 473530
  154891 string characters out of 5714794
- 580320 words of memory out of 5000000
+ 580158 words of memory out of 5000000
  33095 multiletter control sequences out of 15000+600000
  564085 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1203b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1203b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\zhaox\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/zhaox/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/zhaox/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -408,9 +414,9 @@ ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zhaox/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/zhaox/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/z
 haox/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_XiayuZhao.pdf (6 pages, 166129 bytes).
+Output written on CV_XiayuZhao.pdf (6 pages, 165364 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
+ 195 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
