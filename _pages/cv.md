@@ -59,7 +59,7 @@ Construction robotics; aerial–ground multi-robot systems (UAV–UGV, hexapod, 
 * **Teaching Assistant**, Robotic Construction Research Series, Robotic Construction Group, Tsinghua University
   * Sep. 2022 - Apr. 2023 · Supervisor: Professor Weiguo Xu
   * Advised master’s graduation projects in robotic construction.
-  * Topics: plastic 3D printing, wood cutting, and foam cutting with KUKA robot arms.
+  * Topics: plastic 3D printing, wood cutting, and foam cutting with robot arms.
 
 * **Teaching Assistant**, Tsinghua University Parametric Design Workshop 2019, Jul. 2019
   * Tutor: Casey Rehm
@@ -214,7 +214,7 @@ Full publication profile: [Google Scholar](https://scholar.google.com/citations?
 
 ### Computer Skills
 
-**Robot Programming/OS:** ROS/ROS 2, Gazebo, PX4/MAVLink UAV control, Industrial Robot Language (URScript), KUKA, Arduino sensor integration
+**Robot Programming/OS:** ROS/ROS 2, Gazebo, PX4/MAVLink UAV control, Industrial Robot Language (URScript), Arduino sensor integration
 
 **AI & Computer Vision:** PyTorch, OpenCV, deep reinforcement learning, LLM prompting & agents
 
